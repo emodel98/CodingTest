@@ -1,4 +1,4 @@
-##Implementation 구현
+## Implementation 구현
 
 아이디어를 코드로 바꾸는 구현.
 생각해낸 풀이 방법을 파이썬으로 구현하기.
